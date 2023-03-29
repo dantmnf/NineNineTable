@@ -23,21 +23,22 @@
 | :--: | :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
 |  1   | [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
 |  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
-|  3   | [鬼才](鬼才)      |  75 Bytes | Kotlin    |  作者很懒，什么都没有说.jpg  |
-|  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  4   | [Ns2Kracy](Ns2Kracy)     |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
-|  5   | [dragove](dragove) | 85 Bytes | Scala | 作者很懒，什么都没有说.jpg |
-|  5   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
-|  6   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  7   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  8   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
-|  9   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
-|  10  | [知秋](FAll)     |  117 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
-|  11  | Konoha | 124Bytes | Python | 氵，好想要玛丽的手冲** |
-|  12  | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
-|  13  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
-|  14  | [d3ara1n](d3ara1n) |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
-|  15  | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  3   | [dantmnf](dantmnf) | 64 Bytes | Ruby |  作者很懒，什么都没有说.jpg |
+|  4   | [鬼才](鬼才)      |  75 Bytes | Kotlin    |  作者很懒，什么都没有说.jpg  |
+|  5   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  6   | [Ns2Kracy](Ns2Kracy)     |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
+|  7   | [dragove](dragove) | 85 Bytes | Scala | 作者很懒，什么都没有说.jpg |
+|  8   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+|  9   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  10  | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  11  | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
+|  12  | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
+|  13  | [知秋](FAll)     |  117 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+|  14  | Konoha | 124Bytes | Python | 氵，好想要玛丽的手冲** |
+|  15  | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  16  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
+|  17  | [d3ara1n](d3ara1n) |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
+|  18  | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
 
